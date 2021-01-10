@@ -1,10 +1,10 @@
 variable "region" {
-  default     = "us-east-1"
+  default     = "us-west-2"
   description = "The AWS region."
 }
 
 variable "prefix" {
-  default     = "examplecom"
+  default     = "examplecom2234"
   description = "The name of our org, i.e. examplecom."
 }
 
